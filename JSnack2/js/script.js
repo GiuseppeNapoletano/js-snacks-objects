@@ -1,10 +1,13 @@
 const nomi = [`pippo`, `PLUTO`, `pAPERINO`, `tOpOlInO`];
+const nomiFixed = []
 
 for (let i = 0; i < nomi.length; i++) {
     const parole = nomi[i];
     const finale = reset(parole)
-    console.log(finale);
+    nomiFixed.push(finale)
 }
+
+console.log(nomiFixed);
 
 
 
