@@ -1,53 +1,33 @@
 const automobili = [
     {
-        marca: `Alfa Romeo`,
-        modello: `Giulietta`,
-        alimentazione: `benzina`,
+        marca: `Alfa Romeo`, modello: `Giulietta`, alimentazione: `benzina`,
     },
     {
-        marca: `Volkswagen`,
-        modello: `Golf`,
-        alimentazione: `diesel`,
+        marca: `Volkswagen`, modello: `Golf`, alimentazione: `diesel`,
     }, 
     {
-        marca: `Fiat`,
-        modello: `Punto`,
-        alimentazione: `gpl`,
+        marca: `Fiat`, modello: `Punto`, alimentazione: `gpl`,
     },
     {
-        marca: `Mercedes`,
-        modello: `AMG`,
-        alimentazione: `benzina`,
+        marca: `Mercedes`, modello: `AMG`, alimentazione: `benzina`,
     },
     {
-        marca: `Fiat`,
-        modello: `Panda`,
-        alimentazione: `metano`,
+        marca: `Fiat`, modello: `Panda`, alimentazione: `metano`,
     },
     {
-        marca: `Fiat`,
-        modello: `Tipo`,
-        alimentazione: `gpl`,
+        marca: `Fiat`, modello: `Tipo`, alimentazione: `gpl`,
     },
     {
-        marca: `Alfa Romeo`,
-        modello: `Stelvio`,
-        alimentazione: `diesel`,
+        marca: `Alfa Romeo`, modello: `Stelvio`, alimentazione: `diesel`,
     },
     {
-        marca: `Subaru`,
-        modello: `Baracca`,
-        alimentazione: `diesel`,
+        marca: `Subaru`, modello: `Baracca`, alimentazione: `diesel`,
     },
     {
-        marca: `Skoda`,
-        modello: `Yeti`,
-        alimentazione: `benzina`,
+        marca: `Skoda`, modello: `Yeti`, alimentazione: `benzina`,
     },
     {
-        marca: `Citroen`,
-        modello: `C3`,
-        alimentazione: `benzina`,
+        marca: `Citroen`, modello: `C3`, alimentazione: `benzina`,
     }
 ]
 
